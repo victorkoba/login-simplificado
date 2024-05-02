@@ -1,0 +1,58 @@
+/* Victor Luiz Koba Batista */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#login{
+    margin-top: 20px;
+    font-family: system-ui;
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin-bottom: 60px;
+}
+
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-bottom: 20px;
+    font-family: system-ui;
+    border: 2px solid;
+    padding: 15px;
+}
+
+label{
+    font-weight: bold;
+}
+
+input{
+    padding: 10px;
+}
+
+button{
+    padding: 5px;
+    margin-top: 5px;
+    font-family: system-ui;;
+    background-color: rgb(85, 250, 85);
+    border-color: rgb(85, 250, 85);
+}
+
+a{
+    margin-bottom: 20px;
+}
